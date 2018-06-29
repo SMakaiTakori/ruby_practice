@@ -148,6 +148,14 @@
         <root url="file://C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.13.7/man" />
       </SOURCES>
     </library>
+    <library name="childprocess (v0.9.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/childprocess-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/childprocess-0.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="coffee-rails (v4.2.1, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/coffee-rails-4.2.1/lib" />
@@ -264,6 +272,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/execjs-2.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.25, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/ffi-1.9.25-x86-mingw32/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/ffi-1.9.25-x86-mingw32/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/ffi-1.9.25-x86-mingw32/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/ffi-1.9.25-x86-mingw32/samples" />
       </SOURCES>
     </library>
     <library name="gherkin (v5.1.0, ruby-2.3.3-p222) [gem]">
@@ -648,6 +666,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/sass-rails-5.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.13.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/selenium-webdriver-3.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/selenium-webdriver-3.13.0/lib" />
       </SOURCES>
     </library>
     <library name="sprockets (v3.7.1, ruby-2.3.3-p222) [gem]">
