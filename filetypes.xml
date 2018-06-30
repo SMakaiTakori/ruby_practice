@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping pattern="TC_004TestUnit" type="Ruby" />
       <mapping pattern="TC_005_TestCase_Login_Functionality" type="Ruby" />
       <mapping pattern="TC_001" type="Ruby" />
